@@ -1,0 +1,1 @@
+account_id: 131764998 match_id: 3501185467 seq_num: 2007 reasons: 1 matches_in_report: 25 matches_clean: 25 matches_reported: 0 matches_abandoned: 0 reports_count: 0 reports_parties: 0 commend_count: 3 date: 1507985094 behavior_grade: 0 old_behavior_grade: 0
